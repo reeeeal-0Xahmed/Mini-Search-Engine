@@ -1,0 +1,11 @@
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\bin\Debug\net10.0\SearchEngine.Core.deps.json
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\bin\Debug\net10.0\SearchEngine.Core.dll
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\bin\Debug\net10.0\SearchEngine.Core.pdb
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\net10.0\SearchEngine.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\net10.0\SearchEngine.Core.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\net10.0\SearchEngine.Core.AssemblyInfo.cs
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\net10.0\SearchEngine.Core.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\net10.0\SearchEngine.Core.dll
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\net10.0\refint\SearchEngine.Core.dll
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\net10.0\SearchEngine.Core.pdb
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\net10.0\ref\SearchEngine.Core.dll

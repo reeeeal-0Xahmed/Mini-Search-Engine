@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SearchEngine.Api.Controllers.SearchController",
+    "Method": "Search",
+    "RelativePath": "search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "q",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

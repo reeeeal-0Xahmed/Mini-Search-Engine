@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SearchEngine.Api/SearchEngine.Api.csproj" Id="521b0db4-9455-4c13-8477-9b8e2a22446d" />
+  <Project Path="SearchEngine.Core/SearchEngine.Core.csproj" />
+  <Project Path="SearchEngine.Crawler/SearchEngine.Crawler.csproj" />
+</Solution>

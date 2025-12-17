@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "iWi6Y76Osx0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LAPTOP\\source\\repos\\SearchEngine.Crawler\\SearchEngine.Api\\SearchEngine.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAPTOP\\.nuget\\packages\\anglesharp\\1.4.0\\anglesharp.1.4.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP\\.nuget\\packages\\anglesharp.css\\0.17.0\\anglesharp.css.0.17.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP\\.nuget\\packages\\bloomfilter.netcore\\2.6.0\\bloomfilter.netcore.2.6.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP\\.nuget\\packages\\htmlsanitizer\\9.0.889\\htmlsanitizer.9.0.889.nupkg.sha512",
+    "C:\\Users\\LAPTOP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\LAPTOP\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: HtmlSanitizer 9.0.889 requires AngleSharp (= 0.17.1) but version AngleSharp 1.4.0 was resolved.",
+      "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SearchEngine.Crawler\\SearchEngine.Api\\SearchEngine.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\LAPTOP\\source\\repos\\SearchEngine.Crawler\\SearchEngine.Api\\SearchEngine.Api.csproj",
+      "libraryId": "AngleSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: AngleSharp.Css 0.17.0 requires AngleSharp (>= 0.17.0 && < 0.18.0) but version AngleSharp 1.4.0 was resolved.",
+      "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SearchEngine.Crawler\\SearchEngine.Api\\SearchEngine.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\LAPTOP\\source\\repos\\SearchEngine.Crawler\\SearchEngine.Api\\SearchEngine.Api.csproj",
+      "libraryId": "AngleSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
