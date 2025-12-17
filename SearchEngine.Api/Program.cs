@@ -32,7 +32,7 @@ namespace SearchEngine.Api
             // المسار الصح للـ NDJSON (داخل مشروع الـ API)
             string dataPath = Path.Combine(
                 builder.Environment.ContentRootPath,
-                "Data",
+                "data",
                 "index.ndjson"
             );
 
