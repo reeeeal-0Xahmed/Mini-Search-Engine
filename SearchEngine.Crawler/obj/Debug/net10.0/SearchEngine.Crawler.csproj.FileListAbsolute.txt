@@ -21,3 +21,4 @@ C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Crawler\obj\Debug
 C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Crawler\obj\Debug\net10.0\ref\SearchEngine.Crawler.dll
 C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Crawler\bin\Debug\net10.0\SearchEngine.Core.dll
 C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Crawler\bin\Debug\net10.0\SearchEngine.Core.pdb
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Crawler\obj\Debug\net10.0\SearchEngine.Crawler.sourcelink.json

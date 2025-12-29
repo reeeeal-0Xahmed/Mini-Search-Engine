@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SearchEngine.Crawler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a3f95ceb7b53bf353e953b534551bcb4e4f88dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("SearchEngine.Crawler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SearchEngine.Crawler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,3 +9,4 @@ C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\ne
 C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\net10.0\refint\SearchEngine.Core.dll
 C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\net10.0\SearchEngine.Core.pdb
 C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\net10.0\ref\SearchEngine.Core.dll
+C:\Users\LAPTOP\source\repos\SearchEngine.Crawler\SearchEngine.Core\obj\Debug\net10.0\SearchEngine.Core.sourcelink.json
