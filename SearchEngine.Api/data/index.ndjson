@@ -333,7 +333,7 @@
 {"Url":"https://www.codewars.com/users/sign_in","Title":"Sign in | Codewars","Favicon":"https://www.codewars.com/favicon.ico","Snippet":"Loading collection data...","FetchedAt":"2025-12-29T14:13:12.4432763+00:00"}
 {"Url":"https://yanfaa.com/eg/home","Title":"Yanfaa","Favicon":"https://yanfaa.com/eg/assets/images/favicons/new/favicon.png","Snippet":"","FetchedAt":"2025-12-29T14:13:13.1258877+00:00"}
 {"Url":"https://www.hackerrank.com/","Title":"HackerRank - Online Coding Tests and Technical Interviews","Favicon":"https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6715d41d809c171b16ea5612_Hackerrank%20Cursor%20Favicon.png","Snippet":"We help thousands of companies hire and upskill the next generation of developers, and millions of developers to become one.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
-[
+
   {
     "Url": "https://elzero.org/",
     "Title": "Elzero Academy",
@@ -593,4 +593,4 @@
     "Snippet": "Free downloadable programming ebooks.",
     "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
   }
-]
+
