@@ -333,264 +333,42 @@
 {"Url":"https://www.codewars.com/users/sign_in","Title":"Sign in | Codewars","Favicon":"https://www.codewars.com/favicon.ico","Snippet":"Loading collection data...","FetchedAt":"2025-12-29T14:13:12.4432763+00:00"}
 {"Url":"https://yanfaa.com/eg/home","Title":"Yanfaa","Favicon":"https://yanfaa.com/eg/assets/images/favicons/new/favicon.png","Snippet":"","FetchedAt":"2025-12-29T14:13:13.1258877+00:00"}
 {"Url":"https://www.hackerrank.com/","Title":"HackerRank - Online Coding Tests and Technical Interviews","Favicon":"https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6715d41d809c171b16ea5612_Hackerrank%20Cursor%20Favicon.png","Snippet":"We help thousands of companies hire and upskill the next generation of developers, and millions of developers to become one.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
-
-  {
-    "Url": "https://elzero.org/",
-    "Title": "Elzero Academy",
-    "Favicon": "https://elzero.org/favicon.ico",
-    "Snippet": "",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://adelnasim.com/ar/",
-    "Title": "Adel Nasim Platform",
-    "Favicon": "https://adelnasim.com/ar/favicon.ico",
-    "Snippet": "",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://nouvil.net/",
-    "Title": "Nouvil Academy",
-    "Favicon": "https://nouvil.net/favicon.ico",
-    "Snippet": "",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://codeforces.com/",
-    "Title": "Codeforces",
-    "Favicon": "https://codeforces.com/favicon.ico",
-    "Snippet": "A competitive programming platform with contests and community problem solving.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.geeksforgeeks.org/",
-    "Title": "GeeksforGeeks",
-    "Favicon": "https://www.geeksforgeeks.org/favicon.ico",
-    "Snippet": "Computer science portal with tutorials, articles, and practice problems.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.w3schools.com/",
-    "Title": "W3Schools Online Web Tutorials",
-    "Favicon": "https://www.w3schools.com/favicon.ico",
-    "Snippet": "Web development tutorials and references for HTML, CSS, JavaScript, and more.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://devdocs.io/",
-    "Title": "DevDocs API Documentation",
-    "Favicon": "https://devdocs.io/favicon.ico",
-    "Snippet": "Fast, offline-ready API documentation for many languages and tools.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.programiz.com/cpp-programming/online-compiler/",
-    "Title": "Programiz Online C++ Compiler",
-    "Favicon": "https://www.programiz.com/favicon.ico",
-    "Snippet": "Run and test C++ code online with an integrated compiler.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://harmash.com/",
-    "Title": "Harmash — عربي لتعلم البرمجة",
-    "Favicon": "https://harmash.com/favicon.ico",
-    "Snippet": "",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.coursera.org/?skipBrowseRedirect=true",
-    "Title": "Coursera",
-    "Favicon": "https://www.coursera.org/favicon.ico",
-    "Snippet": "Online courses, specializations, and degrees from top universities.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.simplilearn.com/skillup-free-online-courses#exploreCoursesSkillup",
-    "Title": "Simplilearn SkillUp",
-    "Favicon": "https://www.simplilearn.com/favicon.ico",
-    "Snippet": "Free online IT and programming courses with SkillUp.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.classcentral.com/",
-    "Title": "Class Central",
-    "Favicon": "https://www.classcentral.com/favicon.ico",
-    "Snippet": "Search engine for online courses across platforms.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.freecodecamp.org/learn/",
-    "Title": "freeCodeCamp",
-    "Favicon": "https://www.freecodecamp.org/favicon.ico",
-    "Snippet": "Free coding curriculum with hands-on projects and certifications.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.codecademy.com/learn?page=learning",
-    "Title": "Codecademy",
-    "Favicon": "https://www.codecademy.com/favicon.ico",
-    "Snippet": "Interactive coding lessons in many languages.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.udemy.com/",
-    "Title": "Udemy",
-    "Favicon": "https://www.udemy.com/favicon.ico",
-    "Snippet": "Marketplace of online courses including programming.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://learn.udacity.com/",
-    "Title": "Udacity",
-    "Favicon": "https://learn.udacity.com/favicon.ico",
-    "Snippet": "Nanodegree programs and tech courses.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://visualgo.net/en",
-    "Title": "VisuAlgo",
-    "Favicon": "https://visualgo.net/favicon.ico",
-    "Snippet": "Visualizing data structures and algorithms step-by-step.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://stackoverflow.com/",
-    "Title": "Stack Overflow",
-    "Favicon": "https://stackoverflow.com/favicon.ico",
-    "Snippet": "Community Q&A for programmers.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://css-tricks.com/",
-    "Title": "CSS-Tricks",
-    "Favicon": "https://css-tricks.com/favicon.ico",
-    "Snippet": "Tips, tricks, and techniques for CSS and front-end development.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.khanacademy.org/profile/me/courses",
-    "Title": "Khan Academy — Computer Programming",
-    "Favicon": "https://www.khanacademy.org/favicon.ico",
-    "Snippet": "Free interactive courses for learners, including programming basics.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://webcode.tools/",
-    "Title": "WebCode.Tools",
-    "Favicon": "https://webcode.tools/favicon.ico",
-    "Snippet": "Online tools for web developers.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://developer.mozilla.org/en-US/",
-    "Title": "MDN Web Docs",
-    "Favicon": "https://developer.mozilla.org/favicon.ico",
-    "Snippet": "Documentation and tutorials for web standards and APIs.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://overapi.com/",
-    "Title": "OverAPI.com",
-    "Favicon": "https://overapi.com/favicon.ico",
-    "Snippet": "Cheat sheets and quick reference for many languages.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://roadmap.sh/",
-    "Title": "roadmap.sh",
-    "Favicon": "https://roadmap.sh/favicon.ico",
-    "Snippet": "Developer roadmaps for various tech roles.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.sololearn.com/en/profile/31760585",
-    "Title": "SoloLearn",
-    "Favicon": "https://www.sololearn.com/favicon.ico",
-    "Snippet": "Mobile-friendly coding lessons and community challenges.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.edraak.org/",
-    "Title": "Edraak",
-    "Favicon": "https://www.edraak.org/favicon.ico",
-    "Snippet": "Arabic online courses in many subjects including tech.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://app.almentor.net/home",
-    "Title": "Almentor",
-    "Favicon": "https://app.almentor.net/favicon.ico",
-    "Snippet": "Online learning platform with video courses.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.codewars.com/users/sign_in",
-    "Title": "Codewars",
-    "Favicon": "https://www.codewars.com/favicon.ico",
-    "Snippet": "Coding challenges and kata practice to improve skills.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://academy.hsoub.com/",
-    "Title": "أكاديمية حسوب",
-    "Favicon": "https://academy.hsoub.com/favicon.ico",
-    "Snippet": "Arabic tutorials and courses for developers.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://yanfaa.com/eg/home",
-    "Title": "Yanfaa",
-    "Favicon": "https://yanfaa.com/favicon.ico",
-    "Snippet": "",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.hackerrank.com/",
-    "Title": "HackerRank",
-    "Favicon": "https://www.hackerrank.com/favicon.ico",
-    "Snippet": "Coding practice and interview preparation platform.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://leetcode.com/",
-    "Title": "LeetCode",
-    "Favicon": "https://leetcode.com/favicon-32x32.png",
-    "Snippet": "Online platform for coding interview practice and challenges.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://manual.cs50.io/",
-    "Title": "CS50 Manual",
-    "Favicon": "https://manual.cs50.io/favicon.ico",
-    "Snippet": "CS50 reference and manual pages for computer science.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://cursa.app/en",
-    "Title": "Cursa",
-    "Favicon": "https://cursa.app/favicon.ico",
-    "Snippet": "Free online courses with certificates.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.edx.org/",
-    "Title": "edX",
-    "Favicon": "https://www.edx.org/favicon.ico",
-    "Snippet": "University-level online courses and certifications.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://www.sanfoundry.com/",
-    "Title": "Sanfoundry",
-    "Favicon": "https://www.sanfoundry.com/favicon.ico",
-    "Snippet": "Engineering Q&A and practice questions.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  },
-  {
-    "Url": "https://books.goalkicker.com/",
-    "Title": "GoalKicker Free Programming Books",
-    "Favicon": "https://books.goalkicker.com/favicon.ico",
-    "Snippet": "Free downloadable programming ebooks.",
-    "FetchedAt": "2025-12-29T14:13:14.3559893+00:00"
-  }
-
+{ "Url": "https://elzero.org/","Title": "Elzero Academy","Favicon": "https://elzero.org/favicon.ico", "Snippet": "","FetchedAt": "2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://elzero.org/","Title":"Elzero Academy","Favicon":"https://elzero.org/favicon.ico","Snippet":"","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://adelnasim.com/ar/","Title":"Adel Nasim Platform","Favicon":"https://adelnasim.com/ar/favicon.ico","Snippet":"","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://nouvil.net/","Title":"Nouvil Academy","Favicon":"https://nouvil.net/favicon.ico","Snippet":"","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://codeforces.com/","Title":"Codeforces","Favicon":"https://codeforces.com/favicon.ico","Snippet":"A competitive programming platform with contests and community problem solving.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.geeksforgeeks.org/","Title":"GeeksforGeeks","Favicon":"https://www.geeksforgeeks.org/favicon.ico","Snippet":"Computer science portal with tutorials, articles, and practice problems.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.w3schools.com/","Title":"W3Schools Online Web Tutorials","Favicon":"https://www.w3schools.com/favicon.ico","Snippet":"Web development tutorials and references for HTML, CSS, JavaScript, and more.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://devdocs.io/","Title":"DevDocs API Documentation","Favicon":"https://devdocs.io/favicon.ico","Snippet":"Fast, offline-ready API documentation for many languages and tools.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.programiz.com/cpp-programming/online-compiler/","Title":"Programiz Online C++ Compiler","Favicon":"https://www.programiz.com/favicon.ico","Snippet":"Run and test C++ code online with an integrated compiler.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://harmash.com/","Title":"Harmash — عربي لتعلم البرمجة","Favicon":"https://harmash.com/favicon.ico","Snippet":"","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.coursera.org/?skipBrowseRedirect=true","Title":"Coursera","Favicon":"https://www.coursera.org/favicon.ico","Snippet":"Online courses, specializations, and degrees from top universities.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.simplilearn.com/skillup-free-online-courses#exploreCoursesSkillup","Title":"Simplilearn SkillUp","Favicon":"https://www.simplilearn.com/favicon.ico","Snippet":"Free online IT and programming courses with SkillUp.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.classcentral.com/","Title":"Class Central","Favicon":"https://www.classcentral.com/favicon.ico","Snippet":"Search engine for online courses across platforms.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.freecodecamp.org/learn/","Title":"freeCodeCamp","Favicon":"https://www.freecodecamp.org/favicon.ico","Snippet":"Free coding curriculum with hands-on projects and certifications.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.codecademy.com/learn?page=learning","Title":"Codecademy","Favicon":"https://www.codecademy.com/favicon.ico","Snippet":"Interactive coding lessons in many languages.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.udemy.com/","Title":"Udemy","Favicon":"https://www.udemy.com/favicon.ico","Snippet":"Marketplace of online courses including programming.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://learn.udacity.com/","Title":"Udacity","Favicon":"https://learn.udacity.com/favicon.ico","Snippet":"Nanodegree programs and tech courses.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://visualgo.net/en","Title":"VisuAlgo","Favicon":"https://visualgo.net/favicon.ico","Snippet":"Visualizing data structures and algorithms step-by-step.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://stackoverflow.com/","Title":"Stack Overflow","Favicon":"https://stackoverflow.com/favicon.ico","Snippet":"Community Q&A for programmers.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://css-tricks.com/","Title":"CSS-Tricks","Favicon":"https://css-tricks.com/favicon.ico","Snippet":"Tips, tricks, and techniques for CSS and front-end development.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.khanacademy.org/profile/me/courses","Title":"Khan Academy — Computer Programming","Favicon":"https://www.khanacademy.org/favicon.ico","Snippet":"Free interactive courses for learners, including programming basics.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://webcode.tools/","Title":"WebCode.Tools","Favicon":"https://webcode.tools/favicon.ico","Snippet":"Online tools for web developers.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://developer.mozilla.org/en-US/","Title":"MDN Web Docs","Favicon":"https://developer.mozilla.org/favicon.ico","Snippet":"Documentation and tutorials for web standards and APIs.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://overapi.com/","Title":"OverAPI.com","Favicon":"https://overapi.com/favicon.ico","Snippet":"Cheat sheets and quick reference for many languages.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://roadmap.sh/","Title":"roadmap.sh","Favicon":"https://roadmap.sh/favicon.ico","Snippet":"Developer roadmaps for various tech roles.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.sololearn.com/en/profile/31760585","Title":"SoloLearn","Favicon":"https://www.sololearn.com/favicon.ico","Snippet":"Mobile-friendly coding lessons and community challenges.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.edraak.org/","Title":"Edraak","Favicon":"https://www.edraak.org/favicon.ico","Snippet":"Arabic online courses in many subjects including tech.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://app.almentor.net/home","Title":"Almentor","Favicon":"https://app.almentor.net/favicon.ico","Snippet":"Online learning platform with video courses.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.codewars.com/users/sign_in","Title":"Codewars","Favicon":"https://www.codewars.com/favicon.ico","Snippet":"Coding challenges and kata practice to improve skills.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://academy.hsoub.com/","Title":"أكاديمية حسوب","Favicon":"https://academy.hsoub.com/favicon.ico","Snippet":"Arabic tutorials and courses for developers.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://yanfaa.com/eg/home","Title":"Yanfaa","Favicon":"https://yanfaa.com/favicon.ico","Snippet":"","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.hackerrank.com/","Title":"HackerRank","Favicon":"https://www.hackerrank.com/favicon.ico","Snippet":"Coding practice and interview preparation platform.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://leetcode.com/","Title":"LeetCode","Favicon":"https://leetcode.com/favicon-32x32.png","Snippet":"Online platform for coding interview practice and challenges.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://manual.cs50.io/","Title":"CS50 Manual","Favicon":"https://manual.cs50.io/favicon.ico","Snippet":"CS50 reference and manual pages for computer science.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://cursa.app/en","Title":"Cursa","Favicon":"https://cursa.app/favicon.ico","Snippet":"Free online courses with certificates.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.edx.org/","Title":"edX","Favicon":"https://www.edx.org/favicon.ico","Snippet":"University-level online courses and certifications.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.sanfoundry.com/","Title":"Sanfoundry","Favicon":"https://www.sanfoundry.com/favicon.ico","Snippet":"Engineering Q&A and practice questions.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://books.goalkicker.com/","Title":"GoalKicker Free Programming Books","Favicon":"https://books.goalkicker.com/favicon.ico","Snippet":"Free downloadable programming ebooks.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
+{"Url":"https://www.hackerrank.com/","Title":"HackerRank - Online Coding Tests and Technical Interviews","Favicon":"https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6715d41d809c171b16ea5612_Hackerrank%20Cursor%20Favicon.png","Snippet":"We help thousands of companies hire and upskill the next generation of developers, and millions of developers to become one.","FetchedAt":"2025-12-29T14:13:14.3559893+00:00"}
